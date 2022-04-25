@@ -67,6 +67,6 @@ Square(side=4)
 
 The unit tests for this project are in `test_module.py`.
 
-### Development
+### Run
 
-Write your code in `shape_calculator.py`. For development, you can use `main.py` to test your `shape_calculator()` function. Click the "run" button and `main.py` will run.
+Write your code in `shape_calculator.py`. Tu run, you can use `main.py` to test your `shape_calculator()` function.
